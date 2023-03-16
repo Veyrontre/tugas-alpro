@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//tugas alpro git dan github
 
 public class DataDiri {
    public static void main(String[] args) {
